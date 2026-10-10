@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I031
 ### Team Details
-#### **Team Name** <<Fantastic Four>> <br/>
+#### **Fantastic Four** <<Fantastic Four>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Hostel Details   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| ------------------|
